@@ -7,7 +7,7 @@ export class Home extends Component {
     return (
       <div className="home">
         <div class="hero">
-          <video src={hero} className="vid" autoplay loop></video>
+          <video src={hero} className="vid" autoPlay muted loop></video>
         </div>
       </div>
     );
