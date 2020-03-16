@@ -6,7 +6,6 @@
 .App {
   display: flex;
   flex-direction: column;
-  border: 2px purple solid;
 }
 .main {
   display: flex;
