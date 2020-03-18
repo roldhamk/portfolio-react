@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PCard from "./Cards";
 
 import "./Portfolio.css";
 
@@ -6,7 +7,7 @@ export class Portfolio extends Component {
   render() {
     return (
       <div className="pwrap">
-        <div className="cardwrap"></div>
+        <PCard />
       </div>
     );
   }
