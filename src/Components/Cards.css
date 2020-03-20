@@ -1,0 +1,11 @@
+.cardim {
+  height: 100px;
+  width: auto;
+}
+.maincard {
+  border: 1px solid green;
+}
+
+.pcards {
+  border: 2px red solid;
+}

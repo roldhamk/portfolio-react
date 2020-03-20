@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { BrowserRouter, Route, Switch, Link } from "react-router-dom";
-import About from "./Components/About";
-import Home from "./Components/Home";
-import Portfolio from "./Components/Portfolio";
-import Contact from "./Components/Contact";
-import Navbar from "./Components/Navbar";
+import About from "./components/About";
+import Home from "./components/Home";
+import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
 import "./App.css";
 
 export default class App extends Component {
